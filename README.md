@@ -7,4 +7,4 @@ Develop a responsive and dynamic quiz website that requires the user to register
 - vs code
 
 ## links  📎
-- [live code ]()
+- [live code ](https://majdishomali.github.io/Evaluating-Candidates-quiz/)
