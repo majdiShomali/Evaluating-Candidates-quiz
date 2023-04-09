@@ -1,7 +1,7 @@
-# Quiztopia
+# recruiter
 
 
-##### Quiztopia is a responsive and dynamic Quiz website that will evaluate candidates' knowledge and skills for a specific position (JavaScript, CSS, HTML). 
+##### recruiter is a responsive and dynamic Quiz website that will evaluate candidates' knowledge and skills for a specific position (JavaScript, CSS, HTML). 
 
 The website will compare the user's (candidate) answers with the correct answers previously saved on local storage and show the result if the candidate has passed or failed the quiz.
 
